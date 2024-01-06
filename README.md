@@ -1,6 +1,6 @@
 # Plant Disease Classification using PyTorch
 
-This repository contains the implementation of a plant disease classification model using PyTorch. The model is based on a fine-tuned ResNet-18 architecture for image classification tasks.
+This repository contains the implementation of a plant disease classification model using PyTorch. The model is based on a fine-tuned ResNet-18 architecture for image classification tasks of the plantvillage dataset.
 
 ## Table of Contents
 - [Introduction](#introduction)
