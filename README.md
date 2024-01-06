@@ -80,4 +80,4 @@ Contributions are welcome, i humbly request for a collaboration on this notebook
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT_license](LICENSE).
