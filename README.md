@@ -21,7 +21,7 @@ The goal of this project is to classify plant diseases based on images. The mode
 
 ## Dataset
 
-The dataset used for this project is available [here]([link_to_dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)). It consists of images of plants affected by various diseases. The dataset is organized into different classes based on the type of disease.The dataset is available for download at kaggle, dataset name Plantvillage dataset
+The dataset used for this project is available [here](https://www.kaggle.com/datasets/emmarex/plantdisease). It consists of images of plants affected by various diseases. The dataset is organized into different classes based on the type of disease.The dataset is available for download at kaggle, dataset name Plantvillage dataset
 
 ## Installation
 
@@ -42,25 +42,17 @@ The dataset used for this project is available [here]([link_to_dataset](https://
 
 1. Ensure the dataset is downloaded and organized in the specified structure.
 2. Modify the `config.py` file to set the dataset path and other configurations.
-3. Run the training script:
+3. Run the training script on the training cell:
 
-    ```bash
-    python train.py
-    ```
-
-4. Evaluate the model:
-
-    ```bash
-    python evaluate.py
-    ```
+4. Evaluate the model on the evaluation cell
 
 ## Training
 
-The model is trained using a fine-tuned ResNet-18 architecture. Data augmentation techniques are applied to enhance the model's robustness. The training script (`train.py`) contains the main training loop.
+The model is trained using a fine-tuned ResNet-18 architecture. Data augmentation techniques are applied to enhance the model's robustness. The training script (`train cell`) contains the main training loop.
 
 ## Evaluation
 
-The model is evaluated on a separate test set to measure its accuracy and performance. The evaluation script (`evaluate.py`) computes the accuracy and validation loss.
+The model is evaluated on a separate test set to measure its accuracy and performance. The evaluation script cell (`evaluate cell`) computes the accuracy and validation loss.
 
 ## Results
 
