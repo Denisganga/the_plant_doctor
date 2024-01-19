@@ -25,18 +25,10 @@ The dataset used for this project is available [here](https://www.kaggle.com/dat
 
 ## Installation
 
-1. Clone the repository:
+To install and run this pytorch model follow the following steps.
 
-    ```bash
-    git clone https://github.com/denisganga/the_plant_doctor.git
-    cd the_plant_doctor
-    ```
-
-2. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
+1.) open the notebook on google colab.
+2.)
 
 ## Usage
 
