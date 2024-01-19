@@ -41,7 +41,7 @@ The dataset used for this project is available [here](https://www.kaggle.com/dat
 ## Usage
 
 1. Ensure the dataset is downloaded and organized in the specified structure.
-2. Modify the `config.py` file to set the dataset path and other configurations.
+2. Modify the `config cell`  to set the dataset path and other configurations.
 3. Run the training script on the training cell:
 
 4. Evaluate the model on the evaluation cell
